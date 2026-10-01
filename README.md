@@ -548,9 +548,6 @@ If you find this work useful, please cite:
 }
 ```
 
-## Contact
-
-For questions, please open an issue or contact the corresponding author, Ardhendu Behera (beheraa@edgehill.ac.uk).
 
 ## License
 
