@@ -1,0 +1,14 @@
+# Install PyTorch, NVIDIA DALI and the PyG wheels first (see README: they depend on your CUDA version).
+torch>=2.0
+torchvision
+torch-geometric
+numpy
+pandas
+scipy
+scikit-learn
+tqdm
+
+# Optional: pose extraction (tools/extract_poses.py)
+# transformers
+# decord
+# pillow
